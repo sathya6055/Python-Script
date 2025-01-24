@@ -1,4 +1,4 @@
-## **Python Programming: Basic and Advanced Topics with EDA**
+## Python Programming: Basic and Advanced Topics with EDA ##
 
 **Project Overview**
 
